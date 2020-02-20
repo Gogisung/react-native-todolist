@@ -4,7 +4,7 @@ import Styled from 'styled-components/native';
 const Container = Styled.View`
   height: 40px;
   justify-content: center;
-  align-item: center;
+  align-items: center;
 `;
 
 const TitleLabel = Styled.Text`

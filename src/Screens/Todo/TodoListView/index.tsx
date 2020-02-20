@@ -1,7 +1,7 @@
 import React from 'react';
 import Styled from 'styled-components/native';
 
-import Header from './header';
+import Header from './Header';
 import TodoList from './TodoList';
 
 const Container = Styled.SafeAreaView`

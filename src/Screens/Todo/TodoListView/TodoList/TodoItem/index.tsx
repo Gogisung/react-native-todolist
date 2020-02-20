@@ -7,7 +7,7 @@ const Container = Styled.View`
   margin: 4px 16px;
   padding: 8px 16px;
   border-radius: 8px;
-  align-item: center;
+  align-items: center;
 `;
 const Label = Styled.Text`
   flex: 1;

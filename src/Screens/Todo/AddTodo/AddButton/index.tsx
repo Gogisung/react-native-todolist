@@ -3,7 +3,7 @@ import Styled from 'styled-components/native';
 
 const Container = Styled.SafeAreaView`
   position: absolute;
-  button: 0;
+  bottom: 0;
   align-self: center;
   justify-content: flex-end;
 `;

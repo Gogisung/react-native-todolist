@@ -3,7 +3,7 @@ import Styled from 'styled-components/native';
 
 const Container = Styled.View`
   flex: 1;
-  align-item: center;
+  align-items: center;
   justify-content: center;
 `;
 const Lable = Styled.Text``;

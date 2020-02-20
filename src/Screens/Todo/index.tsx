@@ -4,7 +4,7 @@ import TodoListView from './TodoListView';
 import AddTodo from './AddTodo';
 
 const Container = Styled.View`
-  Flex: 1;
+  flex: 1;
 `;
 
 interface Props {}
